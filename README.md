@@ -14,13 +14,10 @@ Also, in the current work we note the benefits of continual learning in the cont
 <img src="figs/continual_learning.png" alt="cont_learn" width="600" height="500"/><br><br>
 <em>Figure: Comparison of the training performance on spline basis with continual learning and without continual learning while learning bubble dynamics under high pressure with high frequency</em>
 
-
-The code will be released soon. Currently being tested before release.
-
 ## Two-Step DeepOKAN
 #### - Instructions for Users
 
-This section will be updated soon.
+Currently the code is being tested to ensure smooth functioning across any machine/environment. Improvements will be made and this section will be updated soon. 
 
 #### - Configuring Input Parameters
 Adjust input parameters using the `inputs.yaml` file. 
@@ -43,6 +40,7 @@ If you find Two-Step DeepOKAN useful for your research, adapted or utilized the 
     keywords = {Bubble dynamics, Physics-informed neural operator, Kolmogorov-Arnold networks, Rayleigh-Plesset equation, Keller-Miksis equation}
 }
 ```
-
+## Authors
+The code is written by Sidharth S. Menon (Two-Step DeepOKAN) and Yunhao Zhang (Two-Step DeepONet) for bubble dynamics. Although the current repository does not contain code for Two-Step DeepONet, it will be publicly shared upon request.
 
 
