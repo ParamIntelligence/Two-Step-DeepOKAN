@@ -1,0 +1,20 @@
+Epochs:  # number of epoch for training
+  Trunk: 100000
+  Branch: 100000
+learning_rate: 1.0e-4
+Decomposition: SVD # Ortho-normalization method (SVD or QR)
+Architecture: # configuration of the trunk and branch networks.
+  Trunk: [2,150,150,150,150]
+  Branch: [2000,150,150,150,150,150,150]
+Basis: # configuration of the basis functions used for trunk and branch networks.
+  Trunk: {'k':2, 'G':40}
+  Branch: {'D':6}
+FSM: #frequency of saving the model (Epochs)
+  Trunk:  10000
+  Branch: 5000
+FRL: #Frequency of reporting the loss values
+  Trunk:  200
+  Branch: 200
+Model_folder: # Folder that contains the deeplearing model
+  Trunk: trunk_3ls_150_150_Spline_k2G40_lr1em4_allfreq_fullbatch
+  Branch: branch_5ls_150_150_RBF_D6_lr1em4_allfreq_fullbatch
