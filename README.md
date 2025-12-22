@@ -35,9 +35,7 @@ If you find Two-Step DeepOKAN useful for your research, adapted or utilized the 
     pages = {118667},
     year = {2026},
     issn = {0045-7825},
-    doi = {https://doi.org/10.1016/j.cma.2025.118667},
-    url = {https://www.sciencedirect.com/science/article/pii/S0045782525009399},
-    keywords = {Bubble dynamics, Physics-informed neural operator, Kolmogorov-Arnold networks, Rayleigh-Plesset equation, Keller-Miksis equation}
+    doi = {https://doi.org/10.1016/j.cma.2025.118667}
 }
 ```
 ## Authors
