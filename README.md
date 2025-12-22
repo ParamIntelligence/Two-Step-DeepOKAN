@@ -41,6 +41,6 @@ If you find Two-Step DeepOKAN useful for your research, adapted or utilized the 
 }
 ```
 ## Authors
-The code is written by Sidharth S. Menon (Two-Step DeepOKAN) and Yunhao Zhang (Two-Step DeepONet) for bubble dynamics. Although the current repository does not contain code for Two-Step DeepONet, it will be publicly shared upon request.
+The Two-Step DeepOKAN code is written by Sidharth S. Menon for bubble dynamics.
 
 
