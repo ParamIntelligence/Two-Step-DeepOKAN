@@ -18,6 +18,13 @@ Also, in the current work we note the benefits of continual learning in the cont
 
 ## Two-Step DeepOKAN
 
+#### - Directory
+- data:    Contains all the relavant dataset used for training and validation of the high bubble dynamics
+- inference:    Contains files for performing inference using pretrained weights after training the two-step DeepOKAN framework
+- saved_models:    Contains pretrained weights from model training for trunk and branch networks
+- scripts:    Contains `slurum.sh` for HPC and `main.py` files
+- src:    Contains files for training trunk and branch networks for the two-step DeepOKAN framework
+
 #### - Configuring Input Parameters
 Adjust input parameters using the `inputs.yaml` file. 
 
