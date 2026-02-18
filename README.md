@@ -15,9 +15,8 @@ Also, in the current work we note the benefits of continual learning in the cont
 <em>Figure: Comparison of the training performance on spline basis with continual learning and without continual learning while learning bubble dynamics under high pressure with high frequency</em>
 
 ## Two-Step DeepOKAN
-#### - Instructions for Users
 
-Currently the code is being tested to ensure smooth functioning across any machine/environment. Improvements will be made and this section will be updated soon. 
+https://github.com/ParamIntelligence/Two-Step-DeepOKAN/figs/bubbledynamics.mp4
 
 #### - Configuring Input Parameters
 Adjust input parameters using the `inputs.yaml` file. 
