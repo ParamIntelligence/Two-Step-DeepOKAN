@@ -14,7 +14,7 @@ Also, in the current work we note the benefits of continual learning in the cont
 
 <p align="center">
 <img src="figs/continual_learning.png" alt="cont_learn" width="600" height="500"/><br><br>
-<em>Figure: Comparison of the training performance on spline basis with continual learning and without continual learning while learning bubble dynamics under high pressure with high frequency</em>
+<em>Figure: Comparison of the training performance on spline basis with continual learning and without continual learning while learning bubble dynamics under high pressure with high frequency. The figure shows the change in radius of the bubble with respect to time at frequency of 1928 kHz and amplitude of 11 &times 10<sup>5</sup> Pa.</em>
 
 ## Two-Step DeepOKAN
 
