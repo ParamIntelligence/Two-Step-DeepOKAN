@@ -1,5 +1,7 @@
 # BubbleOKAN
 
+https://github.com/user-attachments/assets/385735df-dd67-4640-a1ff-1967c7a194e6
+
 The repository hosts the code for the implementation of the BubbleOKAN method for solving high-frequency bubble dynamics, which is built upon the Two-Step DeepOKAN framework which is also introduced through the current work. The code could be used for adapting it for a different problem or to reproduce the results showcased in our work - "BubbleOKAN: A physics-informed interpretable neural operator for high-frequency bubble dynamics", Computer Methods in Applied Mechanics and Engineering, Volume 450, (2026) 118667.
 
 The architecture for the Two-Step DeepOKAN architecture is shown below.
@@ -15,8 +17,6 @@ Also, in the current work we note the benefits of continual learning in the cont
 <em>Figure: Comparison of the training performance on spline basis with continual learning and without continual learning while learning bubble dynamics under high pressure with high frequency</em>
 
 ## Two-Step DeepOKAN
-
-https://github.com/ParamIntelligence/Two-Step-DeepOKAN/figs/bubbledynamics.mp4
 
 #### - Configuring Input Parameters
 Adjust input parameters using the `inputs.yaml` file. 
