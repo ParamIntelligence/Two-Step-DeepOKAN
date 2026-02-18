@@ -1,0 +1,8 @@
+Architecture: # configuration of the trunk and branch networks.
+  Trunk: [2,150,150,150,150]
+  Branch: [2000,150,150,150,150,150,150]
+Model_folder: # Folder that contains the deeplearing model
+  Trunk: 0_trunk_3ls_150_150_Spline_k2G40_lr1em4_allfreq_fullbatch_continual
+  Branch: 0_branch_5ls_150_150_RBF_D6_lr1em4_allfreq_fullbatch
+Results_folder: Plot_files # Folder that contains the prediction visulizations
+Radius: 50 # select the radius from {50, 60, 70, 80, 90} mircrons
